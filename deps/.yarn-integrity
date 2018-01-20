@@ -1,0 +1,18 @@
+{
+  "nodeVersion": "v9.4.0",
+  "modulesFolders": [
+    "deps"
+  ],
+  "flags": [],
+  "linkedModules": [],
+  "topLevelPatterns": [
+    "comlinkjs@^2.3.1",
+    "lit-html@^0.8.0"
+  ],
+  "lockfileEntries": {
+    "comlinkjs@^2.3.1": "https://registry.yarnpkg.com/comlinkjs/-/comlinkjs-2.3.1.tgz#de1e9ed9f7fcad977abd96980e1174140999bfe9",
+    "lit-html@^0.8.0": "https://registry.yarnpkg.com/lit-html/-/lit-html-0.8.0.tgz#4de0d1899585a3685870ffb919fedd61ebc79f03"
+  },
+  "files": [],
+  "artifacts": {}
+}
